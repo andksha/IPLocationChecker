@@ -5,4 +5,4 @@ require 'IPLocationChecker/IPLocationChecker.php';
 
 $ip = new IPChecker($pdo);
 
-$ip->checkIPLocation($pdo));
+$ip->checkIPLocation($pdo);
